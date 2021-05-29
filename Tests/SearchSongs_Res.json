@@ -1,0 +1,408 @@
+{
+	"meta": {
+		"status": 200
+	},
+	"response": {
+		"hits": [
+			{
+				"highlights": [],
+				"index": "song",
+				"type": "song",
+				"result": {
+					"annotation_count": 76,
+					"api_path": "/songs/205896",
+					"full_title": "Lost Control (Freestyle) by Joe Budden",
+					"header_image_thumbnail_url": "https://images.genius.com/c4fb8146682c56ea8fa565269625294b.300x300x1.jpg",
+					"header_image_url": "https://images.genius.com/c4fb8146682c56ea8fa565269625294b.400x400x1.jpg",
+					"id": 205896,
+					"lyrics_owner_id": 270580,
+					"lyrics_state": "complete",
+					"path": "/Joe-budden-lost-control-freestyle-lyrics",
+					"pyongs_count": 17,
+					"song_art_image_thumbnail_url": "https://images.genius.com/c4fb8146682c56ea8fa565269625294b.300x300x1.jpg",
+					"song_art_image_url": "https://images.genius.com/c4fb8146682c56ea8fa565269625294b.400x400x1.jpg",
+					"stats": {
+						"unreviewed_annotations": 11,
+						"hot": false,
+						"pageviews": 111836
+					},
+					"title": "Lost Control (Freestyle)",
+					"title_with_featured": "Lost Control (Freestyle)",
+					"url": "https://genius.com/Joe-budden-lost-control-freestyle-lyrics",
+					"song_art_primary_color": "#c2953c",
+					"song_art_secondary_color": "#f4ecdc",
+					"song_art_text_color": "#000",
+					"primary_artist": {
+						"api_path": "/artists/179",
+						"header_image_url": "https://images.genius.com/ac6c8ba8d6aa88b06e5886a2840ed9f0.1000x428x1.jpg",
+						"id": 179,
+						"image_url": "https://images.genius.com/43f9c82f7269ffb7397a0cc13844ec8d.513x513x1.jpg",
+						"is_meme_verified": true,
+						"is_verified": true,
+						"name": "Joe Budden",
+						"url": "https://genius.com/artists/Joe-budden",
+						"iq": 10739
+					}
+				}
+			},
+			{
+				"highlights": [],
+				"index": "song",
+				"type": "song",
+				"result": {
+					"annotation_count": 7,
+					"api_path": "/songs/111215",
+					"full_title": "She's Lost Control by Joy Division",
+					"header_image_thumbnail_url": "https://images.genius.com/0155d15bd05a8309cb408b20bd281a7c.300x300x1.png",
+					"header_image_url": "https://images.genius.com/0155d15bd05a8309cb408b20bd281a7c.866x866x1.png",
+					"id": 111215,
+					"lyrics_owner_id": 116340,
+					"lyrics_state": "complete",
+					"path": "/Joy-division-shes-lost-control-lyrics",
+					"pyongs_count": 29,
+					"song_art_image_thumbnail_url": "https://images.genius.com/0155d15bd05a8309cb408b20bd281a7c.300x300x1.png",
+					"song_art_image_url": "https://images.genius.com/0155d15bd05a8309cb408b20bd281a7c.866x866x1.png",
+					"stats": {
+						"unreviewed_annotations": 5,
+						"hot": false,
+						"pageviews": 100743
+					},
+					"title": "She’s Lost Control",
+					"title_with_featured": "She's Lost Control",
+					"url": "https://genius.com/Joy-division-shes-lost-control-lyrics",
+					"song_art_primary_color": "#7f7f7f",
+					"song_art_secondary_color": "#424242",
+					"song_art_text_color": "#fff",
+					"primary_artist": {
+						"api_path": "/artists/28034",
+						"header_image_url": "https://images.genius.com/9a31047f8fcb26be0fe64750624d5206.1000x625x1.jpg",
+						"id": 28034,
+						"image_url": "https://images.genius.com/da7256e4f2b889b0ce5800e4f21cb73a.539x539x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Joy Division",
+						"url": "https://genius.com/artists/Joy-division"
+					}
+				}
+			},
+			{
+				"highlights": [],
+				"index": "song",
+				"type": "song",
+				"result": {
+					"annotation_count": 1,
+					"api_path": "/songs/4144521",
+					"full_title": "Lost Control by Alan Walker & Sorana",
+					"header_image_thumbnail_url": "https://images.genius.com/49be1d209d4e88ebea6acb803879df94.300x300x1.jpg",
+					"header_image_url": "https://images.genius.com/49be1d209d4e88ebea6acb803879df94.600x600x1.jpg",
+					"id": 4144521,
+					"lyrics_owner_id": 6150507,
+					"lyrics_state": "complete",
+					"path": "/Alan-walker-and-sorana-lost-control-lyrics",
+					"pyongs_count": 10,
+					"song_art_image_thumbnail_url": "https://images.genius.com/49be1d209d4e88ebea6acb803879df94.300x300x1.jpg",
+					"song_art_image_url": "https://images.genius.com/49be1d209d4e88ebea6acb803879df94.600x600x1.jpg",
+					"stats": {
+						"unreviewed_annotations": 0,
+						"hot": false,
+						"pageviews": 89528
+					},
+					"title": "Lost Control",
+					"title_with_featured": "Lost Control",
+					"url": "https://genius.com/Alan-walker-and-sorana-lost-control-lyrics",
+					"song_art_primary_color": "#b5974c",
+					"song_art_secondary_color": "#e6d184",
+					"song_art_text_color": "#000",
+					"primary_artist": {
+						"api_path": "/artists/2408749",
+						"header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1622148588",
+						"id": 2408749,
+						"image_url": "https://assets.genius.com/images/default_avatar_300.png?1622148588",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Alan Walker & Sorana",
+						"url": "https://genius.com/artists/Alan-walker-and-sorana"
+					}
+				}
+			},
+			{
+				"highlights": [],
+				"index": "song",
+				"type": "song",
+				"result": {
+					"annotation_count": 21,
+					"api_path": "/songs/204820",
+					"full_title": "Lost Control (Kendrick Lamar Response) by KR",
+					"header_image_thumbnail_url": "https://images.genius.com/8163a6c6e5dc6a90873f39c2f47cde7e.300x300x1.jpg",
+					"header_image_url": "https://images.genius.com/8163a6c6e5dc6a90873f39c2f47cde7e.500x500x1.jpg",
+					"id": 204820,
+					"lyrics_owner_id": 269033,
+					"lyrics_state": "complete",
+					"path": "/Kr-lost-control-kendrick-lamar-response-lyrics",
+					"pyongs_count": 2,
+					"song_art_image_thumbnail_url": "https://images.genius.com/8163a6c6e5dc6a90873f39c2f47cde7e.300x300x1.jpg",
+					"song_art_image_url": "https://images.genius.com/8163a6c6e5dc6a90873f39c2f47cde7e.500x500x1.jpg",
+					"stats": {
+						"unreviewed_annotations": 21,
+						"hot": false,
+						"pageviews": 7198
+					},
+					"title": "Lost Control (Kendrick Lamar Response)",
+					"title_with_featured": "Lost Control (Kendrick Lamar Response)",
+					"url": "https://genius.com/Kr-lost-control-kendrick-lamar-response-lyrics",
+					"song_art_primary_color": "#cfa494",
+					"song_art_secondary_color": "#d5b1a3",
+					"song_art_text_color": "#000",
+					"primary_artist": {
+						"api_path": "/artists/23097",
+						"header_image_url": "https://images.genius.com/48f5d6f2850d31e11eaab6bd8e8e9891.500x500x1.jpg",
+						"id": 23097,
+						"image_url": "https://images.genius.com/8163a6c6e5dc6a90873f39c2f47cde7e.500x500x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": true,
+						"name": "KR",
+						"url": "https://genius.com/artists/Kr",
+						"iq": 151
+					}
+				}
+			},
+			{
+				"highlights": [],
+				"index": "song",
+				"type": "song",
+				"result": {
+					"annotation_count": 0,
+					"api_path": "/songs/216078",
+					"full_title": "Lost Control by Anathema",
+					"header_image_thumbnail_url": "https://images.genius.com/17f2fe56ae6a69887c0131946c9a07b3.300x300x1.jpg",
+					"header_image_url": "https://images.genius.com/17f2fe56ae6a69887c0131946c9a07b3.300x300x1.jpg",
+					"id": 216078,
+					"lyrics_owner_id": 282076,
+					"lyrics_state": "complete",
+					"path": "/Anathema-lost-control-lyrics",
+					"pyongs_count": 3,
+					"song_art_image_thumbnail_url": "https://images.genius.com/17f2fe56ae6a69887c0131946c9a07b3.300x300x1.jpg",
+					"song_art_image_url": "https://images.genius.com/17f2fe56ae6a69887c0131946c9a07b3.300x300x1.jpg",
+					"stats": {
+						"unreviewed_annotations": 0,
+						"hot": false
+					},
+					"title": "Lost Control",
+					"title_with_featured": "Lost Control",
+					"url": "https://genius.com/Anathema-lost-control-lyrics",
+					"song_art_primary_color": "#ae8f50",
+					"song_art_secondary_color": "#61502d",
+					"song_art_text_color": "#fff",
+					"primary_artist": {
+						"api_path": "/artists/70210",
+						"header_image_url": "https://images.genius.com/c5ffd1e5163a99c975455b975800eb55.1000x563x1.jpg",
+						"id": 70210,
+						"image_url": "https://images.genius.com/ac2413002cd4cdfeae5324f707a7306a.720x720x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Anathema",
+						"url": "https://genius.com/artists/Anathema"
+					}
+				}
+			},
+			{
+				"highlights": [],
+				"index": "song",
+				"type": "song",
+				"result": {
+					"annotation_count": 0,
+					"api_path": "/songs/6031337",
+					"full_title": "Lost Control by Exile Music",
+					"header_image_thumbnail_url": "https://images.genius.com/1b54944b546ea5ea3282e05f92a7fdbd.300x300x1.jpg",
+					"header_image_url": "https://images.genius.com/1b54944b546ea5ea3282e05f92a7fdbd.1000x1000x1.jpg",
+					"id": 6031337,
+					"lyrics_owner_id": 7827261,
+					"lyrics_state": "complete",
+					"path": "/Exile-music-lost-control-lyrics",
+					"pyongs_count": null,
+					"song_art_image_thumbnail_url": "https://images.genius.com/1b54944b546ea5ea3282e05f92a7fdbd.300x300x1.jpg",
+					"song_art_image_url": "https://images.genius.com/1b54944b546ea5ea3282e05f92a7fdbd.1000x1000x1.jpg",
+					"stats": {
+						"unreviewed_annotations": 0,
+						"hot": false
+					},
+					"title": "Lost Control",
+					"title_with_featured": "Lost Control",
+					"url": "https://genius.com/Exile-music-lost-control-lyrics",
+					"song_art_primary_color": "#f8d72d",
+					"song_art_secondary_color": "#f0d089",
+					"song_art_text_color": "#000",
+					"primary_artist": {
+						"api_path": "/artists/2330030",
+						"header_image_url": "https://images.genius.com/2b2adb38b3cc83ebafe5b05ee98cd995.1000x167x1.jpg",
+						"id": 2330030,
+						"image_url": "https://images.genius.com/23f0192d5c0c50e92514c5d0a47179b3.720x720x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Exile Music",
+						"url": "https://genius.com/artists/Exile-music"
+					}
+				}
+			},
+			{
+				"highlights": [],
+				"index": "song",
+				"type": "song",
+				"result": {
+					"annotation_count": 0,
+					"api_path": "/songs/3407345",
+					"full_title": "Lost Control by Tyron Hapi (Ft. Bianca (Australia))",
+					"header_image_thumbnail_url": "https://images.genius.com/d2b0f0b15180faeae8e484b6b57df95a.300x300x1.jpg",
+					"header_image_url": "https://images.genius.com/d2b0f0b15180faeae8e484b6b57df95a.500x500x1.jpg",
+					"id": 3407345,
+					"lyrics_owner_id": 5379387,
+					"lyrics_state": "complete",
+					"path": "/Tyron-hapi-lost-control-lyrics",
+					"pyongs_count": null,
+					"song_art_image_thumbnail_url": "https://images.genius.com/d2b0f0b15180faeae8e484b6b57df95a.300x300x1.jpg",
+					"song_art_image_url": "https://images.genius.com/d2b0f0b15180faeae8e484b6b57df95a.500x500x1.jpg",
+					"stats": {
+						"unreviewed_annotations": 0,
+						"hot": false
+					},
+					"title": "Lost Control",
+					"title_with_featured": "Lost Control (Ft. Bianca (Australia))",
+					"url": "https://genius.com/Tyron-hapi-lost-control-lyrics",
+					"song_art_primary_color": "#479f9a",
+					"song_art_secondary_color": "#0c344c",
+					"song_art_text_color": "#fff",
+					"primary_artist": {
+						"api_path": "/artists/1008000",
+						"header_image_url": "https://images.genius.com/46b245982fdd07fccd268786dc4c5f4a.1000x1000x1.jpg",
+						"id": 1008000,
+						"image_url": "https://images.genius.com/46b245982fdd07fccd268786dc4c5f4a.1000x1000x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": true,
+						"name": "Tyron Hapi",
+						"url": "https://genius.com/artists/Tyron-hapi",
+						"iq": 495
+					}
+				}
+			},
+			{
+				"highlights": [],
+				"index": "song",
+				"type": "song",
+				"result": {
+					"annotation_count": 0,
+					"api_path": "/songs/3898901",
+					"full_title": "She's Lost Control 12\" Mix by Joy Division",
+					"header_image_thumbnail_url": "https://images.genius.com/1d6bfad8674b3996da57ca7aeaedf26e.300x300x1.jpg",
+					"header_image_url": "https://images.genius.com/1d6bfad8674b3996da57ca7aeaedf26e.866x866x1.jpg",
+					"id": 3898901,
+					"lyrics_owner_id": 6837472,
+					"lyrics_state": "complete",
+					"path": "/Joy-division-shes-lost-control-12-mix-lyrics",
+					"pyongs_count": null,
+					"song_art_image_thumbnail_url": "https://images.genius.com/7a0efd5993fd0dc0e6d675f587193117.300x300x1.jpg",
+					"song_art_image_url": "https://images.genius.com/7a0efd5993fd0dc0e6d675f587193117.866x866x1.jpg",
+					"stats": {
+						"unreviewed_annotations": 0,
+						"hot": false
+					},
+					"title": "She’s Lost Control 12\" Mix",
+					"title_with_featured": "She's Lost Control 12\" Mix",
+					"url": "https://genius.com/Joy-division-shes-lost-control-12-mix-lyrics",
+					"song_art_primary_color": "#32bc2a",
+					"song_art_secondary_color": "#1c591b",
+					"song_art_text_color": "#fff",
+					"primary_artist": {
+						"api_path": "/artists/28034",
+						"header_image_url": "https://images.genius.com/9a31047f8fcb26be0fe64750624d5206.1000x625x1.jpg",
+						"id": 28034,
+						"image_url": "https://images.genius.com/da7256e4f2b889b0ce5800e4f21cb73a.539x539x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Joy Division",
+						"url": "https://genius.com/artists/Joy-division"
+					}
+				}
+			},
+			{
+				"highlights": [],
+				"index": "song",
+				"type": "song",
+				"result": {
+					"annotation_count": 35,
+					"api_path": "/songs/208153",
+					"full_title": "Lost Control by Peeping Tom (rapper)",
+					"header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1622148588",
+					"header_image_url": "https://assets.genius.com/images/default_cover_image.png?1622148588",
+					"id": 208153,
+					"lyrics_owner_id": 235499,
+					"lyrics_state": "complete",
+					"path": "/Peeping-tom-rapper-lost-control-lyrics",
+					"pyongs_count": null,
+					"song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1622148588",
+					"song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1622148588",
+					"stats": {
+						"unreviewed_annotations": 0,
+						"hot": false
+					},
+					"title": "Lost Control",
+					"title_with_featured": "Lost Control",
+					"url": "https://genius.com/Peeping-tom-rapper-lost-control-lyrics",
+					"song_art_primary_color": null,
+					"song_art_secondary_color": null,
+					"song_art_text_color": null,
+					"primary_artist": {
+						"api_path": "/artists/989303",
+						"header_image_url": "https://images.rapgenius.com/avatars/medium/eb23c89d7f2a9017246a7e9c5f067c5d",
+						"id": 989303,
+						"image_url": "https://images.rapgenius.com/avatars/medium/eb23c89d7f2a9017246a7e9c5f067c5d",
+						"is_meme_verified": false,
+						"is_verified": false,
+						"name": "Peeping Tom (rapper)",
+						"url": "https://genius.com/artists/Peeping-tom-rapper",
+						"iq": 340
+					}
+				}
+			},
+			{
+				"highlights": [],
+				"index": "song",
+				"type": "song",
+				"result": {
+					"annotation_count": 1,
+					"api_path": "/songs/2248981",
+					"full_title": "I Lost Control by Flatsound",
+					"header_image_thumbnail_url": "https://images.genius.com/8571cd246f7bdc5dade76dd911098a4a.300x300x1.jpg",
+					"header_image_url": "https://images.genius.com/8571cd246f7bdc5dade76dd911098a4a.1000x1000x1.jpg",
+					"id": 2248981,
+					"lyrics_owner_id": 4677591,
+					"lyrics_state": "complete",
+					"path": "/Flatsound-i-lost-control-lyrics",
+					"pyongs_count": null,
+					"song_art_image_thumbnail_url": "https://images.genius.com/8571cd246f7bdc5dade76dd911098a4a.300x300x1.jpg",
+					"song_art_image_url": "https://images.genius.com/8571cd246f7bdc5dade76dd911098a4a.1000x1000x1.jpg",
+					"stats": {
+						"unreviewed_annotations": 1,
+						"hot": false
+					},
+					"title": "I Lost Control",
+					"title_with_featured": "I Lost Control",
+					"url": "https://genius.com/Flatsound-i-lost-control-lyrics",
+					"song_art_primary_color": "#c09242",
+					"song_art_secondary_color": "#f4dc9b",
+					"song_art_text_color": "#000",
+					"primary_artist": {
+						"api_path": "/artists/359125",
+						"header_image_url": "https://images.genius.com/ac96cc1a37ed541994aef0947234f616.500x375x1.jpg",
+						"id": 359125,
+						"image_url": "https://images.genius.com/bc8a5e682824fc219246afc01ee72cd1.375x375x1.jpg",
+						"is_meme_verified": false,
+						"is_verified": true,
+						"name": "Flatsound",
+						"url": "https://genius.com/artists/Flatsound",
+						"iq": 573
+					}
+				}
+			}
+		]
+	}
+}
