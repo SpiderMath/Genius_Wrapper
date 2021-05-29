@@ -32,4 +32,4 @@ class GeniusWrapper {
 	}
 };
 
-export { GeniusWrapper };
+export { GeniusWrapper, SongSearchResponse };
